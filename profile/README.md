@@ -1,4 +1,4 @@
-## 🌐 ようこそHolygoのレポーシトリーへ
+## 🌐 ようこそ! Holygoのレポーシトリーへ
 
 ### 📁 Daftar Repository 🟣 Holygo
 
