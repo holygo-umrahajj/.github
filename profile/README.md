@@ -15,7 +15,7 @@
 - **Branch production**: `holygo-prod` (http://api.holygo.id)
 
 ### 3. [`Holygo Mitra`](https://github.com/holygo-umrahajj/holygo-mitra)
-> *Holygo mitra*
+> *Holygo panel*
 
 - **Branch holygo**: `holygo-development` (http://travel-development.holygo.id)
 - **Branch tawafin**: `tawafin-development` (https://panel-tawafin.umrohin.app)
